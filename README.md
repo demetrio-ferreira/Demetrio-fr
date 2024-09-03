@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Demetrio-fr
+- 👋 Hi, I’m @demetrio-ferreira
 - 👀 I’m interested in learning several different programming languages and becoming an expert software engineer capable of solving different problems proposed by anyone.
 - 🌱 I’m currently learning c++,c#,python,html5,javascript,and css.
 - 💞️ I’m looking to collaborate on big projects, although of course, I am not an expert in this field yet, but I am a fast learner who seeks to improve my skills everyday and enjoy working as a team.
